@@ -1,0 +1,18 @@
+sendKeys
+
+It will help u to send a value to a text box or a text area
+
+
+clear
+
+To clear  text box or text area
+
+click
+To click on a link or button
+
+submit
+to do a final submit of the form
+
+
+
+
